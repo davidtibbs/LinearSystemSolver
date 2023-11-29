@@ -34,7 +34,7 @@ class LinearSystemSolver
     {
         Console.WriteLine("Linear System Solver - Task Assignment");
         Console.WriteLine("Second Level - First Semester: 2023-2024\n");
-        Console.WriteLine("Name: Amr Bedir Taher");
+        Console.WriteLine("Name: David Tibbs");
         Console.WriteLine("ID: 1000264365");
         Console.WriteLine("Group: 2, Section: 12");
         Console.WriteLine("\n____________________\n");
@@ -133,7 +133,7 @@ class LinearSystemSolver
     }
 }
 ```
-[*C# Code File*](https://github.com/AmrBedir/LinearSystemSolver/blob/main/LinearSystemSolver/LinearSystemSolver/Program.cs)
+[*C# Code File*](https://github.com/AmrBedir/LinearSystemSolver/blob/main/LinearSystemSolver.cs)
 
 ### Task code in C++ (Console App)
 
@@ -186,7 +186,7 @@ vector<double> gaussian_elimination(vector<vector<double>>& matrix) {
 int main() {
     cout << "Linear System Solver - Task Assignment" << endl;
     cout << "Second Level - First Semester: 2023-2024\n" << endl;
-    cout << "Name: Amr Bedir Taher" << endl;
+    cout << "Name: David Tibbs" << endl;
     cout << "ID: 1000264365" << endl;
     cout << "Group: 2, Section: 12" << endl;
     cout << "\n____________________\n" << endl;
@@ -274,7 +274,7 @@ def gaussian_elimination(matrix):
 def main():
     print("Linear System Solver - Task Assignment")
     print("Second Level - First Semester: 2023-2024\n")
-    print("Name: Amr Bedir Taher")
+    print("Name: David Tibbs")
     print("ID: 1000264365")
     print("Group: 2, Section: 12")
     print("\n____________________\n")
